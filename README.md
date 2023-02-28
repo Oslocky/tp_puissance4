@@ -1,7 +1,9 @@
 # TP puissance4
 
  Version : 1.0.1 (simple patch pour maj_joueur a réaliser) 
+ 
  Date :28/02/2023 
+ 
  Copyright : Raphael Prieto 
 
 
