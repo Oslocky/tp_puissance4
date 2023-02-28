@@ -11,6 +11,7 @@
    pour la même fonction avec bouchons.
    
  Tests unitaires 100% pytest 
+ 
  Tests intégrations 50% pytest
  
 
