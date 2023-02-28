@@ -20,7 +20,7 @@
 
  
 PS: Erreur aux limites pour colones pleines trouvé dans la 
-    fonction maj_joueur, je n'ai pas laissé les tests unitaires 
+    fonction maj_jeu, je n'ai pas laissé les tests unitaires 
     car ils étaient en erreurs ... 
 
    J'ai fait ce que j'ai pu vraiment !
