@@ -1,12 +1,12 @@
 import pytest
 
 from noyau import *
+@pytest.mark.parametrize("n1", "n2", [(0,1), (1,0)]
+def test_changer_oueur(n1,n2):
+   assert changer_joueur(n1)==n2
 
-def test_changer_joueur():
-   assert True==True 
 
-
-def test_coupgagnant():
+def test_coupGagnant():
     grille = [[-1]*7 for a in range(6)]  # grille vide
     joueur = 0
     assert not coup_gagnant(joueur, 0, 0, grille)  # test sans jeton
