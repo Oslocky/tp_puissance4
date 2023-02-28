@@ -11,6 +11,7 @@
  
    Tests unitaires pour coup_gagnant et test d'intégration    
    pour la même fonction avec bouchons.
+   Tests unitaire pour la fonction changer_joueur
    
  Tests unitaires 100% pytest 
  
